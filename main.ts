@@ -1,4 +1,4 @@
-input.onButtonPressed(Button.A, function () {
+input.onButtonPressed(Button.AB, function () {
     onoff = 1
 })
 let onoff = 0
